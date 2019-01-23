@@ -1,2 +1,2 @@
 # gdpr-sorry
-Static page for EEA members. 
+Static page for EEA members: https://sorry.dosomething.org
